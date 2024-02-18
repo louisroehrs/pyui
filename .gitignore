@@ -1,0 +1,12 @@
+activate/
+**/.DS_Store
+rooty/
+__pycache__
+/.venv
+\#*.*\#
+.\#*.*
+*.*~
+application/__pycache__
+rooty-prod.http
+prod.key.pyui
+.pyui/
